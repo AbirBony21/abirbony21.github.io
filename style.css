@@ -1,0 +1,16 @@
+.my_radius {
+    border: gold solid 2px;
+    border-radius: 25px;
+}
+
+.social-icons {
+    padding-top: 30px;
+    font-size: 36px;
+    cursor: pointer;
+}
+
+.imgbox {
+    display: block;
+    width: 75%;
+    margin-left: 66px;
+}
